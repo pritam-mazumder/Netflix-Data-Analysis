@@ -1,4 +1,4 @@
-## In this weather analysis notebook (Weather Dataset Analysis.ipynb), the key findings are:
+## In this Netflix analysis notebook (Netflix Dataset.ipynb), the key findings are:
 
 - Checking the dataset for any duplicate records and removing them.
 - Checking for any null values in the column and displaying the result using a heatmap.
